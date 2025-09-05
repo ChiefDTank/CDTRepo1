@@ -3,4 +3,4 @@
 
 
 Hey Dane!
-To run program, type 'python3 main.py' into terminal
+To run program, type 'python main.py' into terminal
